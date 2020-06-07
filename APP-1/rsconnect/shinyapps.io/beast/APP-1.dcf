@@ -1,0 +1,12 @@
+name: APP-1
+title: APP-1
+username:
+account: beast
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1407259
+bundleId: 2555167
+url: https://beast.shinyapps.io/APP-1/
+when: 1572545430.7855
+asMultiple: FALSE
+asStatic: FALSE

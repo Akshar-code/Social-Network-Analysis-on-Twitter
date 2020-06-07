@@ -1,0 +1,12 @@
+name: SentimentAnalysisApp
+title: SentimentAnalysisApp
+username:
+account: beast
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1407337
+bundleId: 2555205
+url: https://beast.shinyapps.io/SentimentAnalysisApp/
+when: 1572546212.84449
+asMultiple: FALSE
+asStatic: FALSE
