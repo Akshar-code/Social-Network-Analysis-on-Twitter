@@ -7,3 +7,6 @@ The methodology used is as follows:
 4. Create a word cloud of the words to represent the dominance of words   
 5. Use different libraries in R to perform sentiment analysis on the tweets   
 6. Rate the tweets on 10 emotional polarities and represent in the form of a Histogram
+
+
+I have taken a lot of inspiration and code from https://www.youtube.com/channel/UCuWECsa_za4gm7B3TLgeV_A :)
