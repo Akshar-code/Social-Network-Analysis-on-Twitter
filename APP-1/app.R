@@ -15,8 +15,8 @@ library(wordcloud)
 ##########################################################Connection to Twitter API############################################
 consumer_key ="0JgpQiHzLGoValA6EOh1Xp6Vp"
 consumer_secret ="mBdajaSFvetDYLJgmH8O38vWjWFstQU95PjNVVyvTgnVLLDjx1"
-access_token ="1168606699420356608-a6gwYeOhTVx8wvORCvHP7mpYRHLPuk"
-access_secret ="5tfsPwcVACvxj8fyponTfpEDBe3oCUdinScfnpSpTRHsT"
+access_token ="1168606699420356608-GCoTRb56H7Zn6twyALax3FDcddFqJA"
+access_secret ="GWDUrew6ES8GiOvSk1GOpVqaqhJEYUGfJIFjbVoeiWUpW"
 setup_twitter_oauth(consumer_key, consumer_secret,access_token,access_secret)
 ##########################################################Front End Code########################################################
 ui <- fluidPage(theme = "lol.css",
